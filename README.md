@@ -18,6 +18,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kapayet-u.kapayet-u&"  />
+</div>
+
+###
+
 <h1 align="center">Hello, World!👋 This Is My GitHub Profile</h1>
 
 ###
@@ -47,5 +53,11 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kapayet-u&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
